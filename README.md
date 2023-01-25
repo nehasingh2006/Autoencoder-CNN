@@ -9,7 +9,6 @@ An autoencoder is an unsupervised learning technique for neural networks that le
 Input Image -> Encoder -> Compressed Representation -> Decoder -> Reconstruct Input Image
 
 # Libraries
-
 - numpy
 - matplotlib
 - keras
