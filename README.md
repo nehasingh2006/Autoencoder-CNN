@@ -13,4 +13,3 @@ Input Image -> Encoder -> Compressed Representation -> Decoder -> Reconstruct In
 - matplotlib
 - keras
 - tensorflow
-
